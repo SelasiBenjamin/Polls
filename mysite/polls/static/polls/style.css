@@ -1,0 +1,24 @@
+li a {
+    color: white;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: xx-large;
+ 
+}
+
+body {
+    background: blue url("images/background3.jpg") no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color:white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+    color: white;
+
+}
